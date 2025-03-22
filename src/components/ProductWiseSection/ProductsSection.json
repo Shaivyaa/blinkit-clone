@@ -1,0 +1,30 @@
+[
+  {
+    "id": "1",
+    "img": "/assets/images/milk-products.jpg",
+    "title": "Amul Gold Full Cream Fresh Milk",
+    "delivery-time": "8 Mins",
+    "quantity": "500ml",
+    "price": "₹35",
+    "add-btn": "Add"
+  },
+
+  {
+    "id": "2",
+    "img": "/assets/images/atta-products.jpg",
+    "title": "Milk Items",
+    "delivery-time": "8 Mins",
+    "quantity": "500ml",
+    "price": "₹35",
+    "add-btn": "Add"
+  },
+  {
+    "id": "3",
+    "img": "/assets/images/breakfast-products.jpg",
+    "title": "Milk Items",
+    "delivery-time": "8 Mins",
+    "quantity": "500ml",
+    "price": "₹35",
+    "add-btn": "Add"
+  }
+]

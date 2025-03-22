@@ -1,0 +1,102 @@
+[
+  {
+    "id": "1",
+    "img": "/assets/images/milk-products.jpg",
+    "title": "Milk Items"
+  },
+  {
+    "id": "2",
+    "img": "/assets/images/atta-products.jpg",
+    "title": "Atta Items"
+  },
+  {
+    "id": "3",
+    "img": "/assets/images/breakfast-products.jpg",
+    "title": "Breakfast Items"
+  },
+  {
+    "id": "4",
+    "img": "/assets/images/chocolate-products.avif",
+    "title": "Chocolates Items"
+  },
+  {
+    "id": "5",
+    "img": "/assets/images/cleaning-products.jpg",
+    "title": "Cleaning Items"
+  },
+  {
+    "id": "6",
+    "img": "/assets/images/drink-products.avif",
+    "title": "Drink Items"
+  },
+  {
+    "id": "7",
+    "img": "/assets/images/masala-products.jpg",
+    "title": "Masala Items"
+  },
+  {
+    "id": "8",
+    "img": "/assets/images/snack-products.jpg",
+    "title": "Snacks Items"
+  },
+  {
+    "id": "9",
+    "img": "/assets/images/spread-products.jpg",
+    "title": "Spread Items"
+  },
+  {
+    "id": "10",
+    "img": "/assets/images/vegetable-products.jpg",
+    "title": "Vegetable Items"
+  },
+  {
+    "id": "16",
+    "img": "/assets/images/drink-products.avif",
+    "title": "Drink Items"
+  },
+  {
+    "id": "17",
+    "img": "/assets/images/masala-products.jpg",
+    "title": "Masala Items"
+  },
+  {
+    "id": "18",
+    "img": "/assets/images/snack-products.jpg",
+    "title": "Snacks Items"
+  },
+  {
+    "id": "19",
+    "img": "/assets/images/spread-products.jpg",
+    "title": "Spread Items"
+  },
+  {
+    "id": "20",
+    "img": "/assets/images/vegetable-products.jpg",
+    "title": "Vegetable Items"
+  },
+  {
+    "id": "11",
+    "img": "/assets/images/milk-products.jpg",
+    "title": "Milk Items"
+  },
+  {
+    "id": "12",
+    "img": "/assets/images/atta-products.jpg",
+    "title": "Atta Items"
+  },
+  {
+    "id": "13",
+    "img": "/assets/images/breakfast-products.jpg",
+    "title": "Breakfast Items"
+  },
+  {
+    "id": "14",
+    "img": "/assets/images/chocolate-products.avif",
+    "title": "Chocolates Items"
+  },
+  {
+    "id": "15",
+    "img": "/assets/images/cleaning-products.jpg",
+    "title": "Cleaning Items"
+  }
+]
