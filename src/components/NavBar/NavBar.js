@@ -1,4 +1,4 @@
-import React, { useState } from "react";
+import React, { useEffect, useState } from "react";
 import {
   AddToCardBtnContainer,
   BillDesc,
@@ -60,6 +60,18 @@ export default function NavBar({ cartItems, setCartItems }) {
   };
 
   const closeModal = () => [setOpenModal(false)];
+
+  useEffect(() => {
+    if (openModal) {
+      document.body.style.overflow = "hidden";
+    } else {
+      document.body.style.overflow = "auto";
+    }
+
+    return () => {
+      document.body.style.overflow = "auto";
+    };
+  }, [openModal]);
 
   return (
     <>
